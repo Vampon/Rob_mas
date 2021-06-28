@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/Picture">
-        <file>original icons/ethernet.png</file>
-    </qresource>
-    <qresource prefix="/">
-        <file>original icons/dragon.png</file>
-    </qresource>
-</RCC>
